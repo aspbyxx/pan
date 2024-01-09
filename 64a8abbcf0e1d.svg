@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 600 480" xml:space="preserve">
+
+<defs>
+</defs>
+<g transform="matrix(0.05 0 0 0.05 300.03 185.03)" id="图层_x0020_1"  >
+<linearGradient id="SVGID_id0_1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="1100.98" y1="219.881" x2="1524.05" y2="1910.76">
+<stop offset="0%" style="stop-color:rgb(20,227,250);stop-opacity: 1"/>
+<stop offset="34.902%" style="stop-color:rgb(10,153,218);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(0,78,186);stop-opacity: 1"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_id0_1); fill-rule: evenodd; opacity: 1;"  transform=" translate(-1490.28, -956)" d="M 1957 172 L 2125 172 L 2125 340 L 1957 340 L 1957 172 z M 1036 1907 C 870 1907 704 1907 538 1907 C 162 1837 -65 1577 17 1160 C 116 855 333 686 710 698 C 805 140 1561 -18 1915 403 C 1312 122 982 526 950 870 C 342 723 54 1376 561 1631 C 673 1687 986 1685 1089 1613 C 1287 1448 1386 1086 1525 865 C 1635 660 1886 453 2134 487 L 2134 399 L 2229 399 L 2229 494 L 2136 494 C 1696 636 1629 948 1466 1323 C 1358 1629 1212 1817 1036 1907 z M 2451 0 L 2555 0 L 2555 113 L 2451 113 L 2451 0 z M 2197 100 L 2360 100 L 2360 258 L 2197 258 L 2197 100 z M 1747 1912 C 2004 1912 2261 1912 2517 1912 C 2745 1872 2932 1773 2980 1472 C 2989 1246 2776 1010 2549 1056 C 2318 1146 2261 1305 2118 1524 C 2009 1692 1884 1819 1747 1912 z M 1117 1907 C 1299 1909 1480 1910 1661 1912 C 1851 1778 2033 1614 2182 1318 C 2290 1133 2418 995 2594 970 C 2576 657 2304 530 2096 598 C 1835 681 1664 968 1525 1327 C 1430 1611 1289 1794 1117 1907 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 300.5 295.93)" style=""  >
+		<text xml:space="preserve" font-family="WenCang-Regular" font-size="45" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(50,50,50); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-95.63" y="14.14" >炫影云秒付</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 300.5 326.41)" style=""  >
+		<text xml:space="preserve" font-family="WenCang-Regular" font-size="14" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(50,50,50); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-115.05" y="4.4" >X</tspan><tspan x="-102.43" y="4.4" >U</tspan><tspan x="-90.04" y="4.4" >A</tspan><tspan x="-76.39" y="4.4" >N</tspan><tspan x="-62.97" y="4.4" style="white-space: pre; "> </tspan><tspan x="-56.67" y="4.4" >Y</tspan><tspan x="-45.1" y="4.4" >I</tspan><tspan x="-38.77" y="4.4" >N</tspan><tspan x="-24.27" y="4.4" >G</tspan><tspan x="-11.95" y="4.4" style="white-space: pre; "> </tspan><tspan x="-5.65" y="4.4" >Y</tspan><tspan x="5.92" y="4.4" >U</tspan><tspan x="19.99" y="4.4" >N</tspan><tspan x="33.41" y="4.4" style="white-space: pre; "> </tspan><tspan x="39.71" y="4.4" >M</tspan><tspan x="55.38" y="4.4" >I</tspan><tspan x="61.91" y="4.4" >A</tspan><tspan x="75.57" y="4.4" >O</tspan><tspan x="88.19" y="4.4" style="white-space: pre; "> </tspan><tspan x="94.49" y="4.4" >F</tspan><tspan x="105.46" y="4.4" >U</tspan></text>
+</g>
+</svg>
